@@ -1,6 +1,8 @@
 # Halloween 3D 🎃
 Halloween 3D Shooter OpenSource Game Engine
 
+<a href="https://www.buymeacoffee.com/jmapp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 Work in progess !
 
 Features :
